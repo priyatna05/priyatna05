@@ -3,7 +3,7 @@
 <img src="https://github.com/priyatna05/portofolio/blob/main/assets/img/home.jpg" align="center" style="width: 100%" />
 </div>   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on .... if u want to see [this Resume of me!](https://priyatna05.github.io/portofolio/)  
   
 
 - 🌱 I’m currently learning Laravel and React  
